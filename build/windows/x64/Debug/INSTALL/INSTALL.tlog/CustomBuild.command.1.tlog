@@ -1,0 +1,10 @@
+^C:\FLUTTERPROJECTS\NAMERAPP\BUILD\WINDOWS\CMAKEFILES\AADA232F73D759676F0E4AB8514D8E4C\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

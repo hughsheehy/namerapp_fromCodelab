@@ -1,0 +1,9 @@
+C:/flutterprojects/namerapp/build/windows/runner/Debug/data/icudtl.dat
+C:/flutterprojects/namerapp/build/windows/runner/Debug/flutter_windows.dll
+C:/flutterprojects/namerapp/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/flutterprojects/namerapp/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/flutterprojects/namerapp/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/flutterprojects/namerapp/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/flutterprojects/namerapp/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/flutterprojects/namerapp/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/flutterprojects/namerapp/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
